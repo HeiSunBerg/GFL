@@ -31,6 +31,7 @@
 
 ## 3. หลักการควบคุมของ GFL  
 
+![Grid-Following Inverter control diagram](Fig material/model-GFL diagram.png)
 หลักการทำงานของ Grid-Following Inverter มักอธิบายผ่านโครงสร้างการควบคุม (control structure) ที่แบ่งออกเป็น 3 ชั้นหลัก ๆ ดังนี้:  
 
 1. **การตรวจจับเฟสด้วย Phase-Locked Loop (PLL)**  

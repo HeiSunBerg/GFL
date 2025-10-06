@@ -16,6 +16,8 @@
 
 ## 2. Grid-Following Inverter คืออะไร?  
 
+<img src="Fig%20material/GFL_overview.png" alt="Diagram" width="700">
+
 **Grid-Following Inverter (GFL)** เป็นกลยุทธ์การควบคุมที่ใช้กับอินเวอร์เตอร์ในระบบผลิตไฟฟ้าจากพลังงานหมุนเวียน เช่น **โซลาร์เซลล์ (PV), กังหันลม (Wind Turbine) หรือ ระบบกักเก็บพลังงานด้วยแบตเตอรี่ (Battery Energy Storage)** อินเวอร์เตอร์เหล่านี้จะทำงานโดยการ ซิงโครไนซ์ (synchronize) ตัวเองกับกริดที่มีอยู่ 
 
 คุณลักษณะหลักของ GFL ได้แก่:  

@@ -90,6 +90,7 @@
 
 Grid-Following Inverter แม้จะไม่สามารถสร้างแรงดันและความถี่เองได้ แต่ก็มีบทบาทสำคัญในการบูรณาการพลังงานหมุนเวียนและแก้ปัญหาหลายด้าน<br>
 <p>
+   
    งานวิจัยจาก National Renewable Energy Laboratory (NREL) ได้นำ GFL มาทดสอบร่วมกับ **Grid-Forming Inverter (GFM)** ภายในระบบทดสอบมาตรฐาน IEEE 9-Bus Network ที่ถูกปรับให้เป็นระบบ ศูนย์เฉื่อย (Zero-Inertia System) — กล่าวคือไม่มี synchronous
    generator อยู่เลยในระบบ เพื่อจำลองสภาวะที่ระบบไฟฟ้าถูกขับเคลื่อนด้วยอินเวอร์เตอร์ทั้งหมด
    

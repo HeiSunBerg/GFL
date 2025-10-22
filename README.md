@@ -254,10 +254,10 @@ Grid-Following Inverter แม้จะไม่สามารถสร้า�
 อย่างไรก็ตาม GFL มีข้อดีคือสามารถทำให้พลังงานหมุนเวียน เช่น PV และ Wind เชื่อมต่อเข้ากับระบบไฟฟ้าได้อย่างมีประสิทธิภาพและเสถียร โดยเฉพาะในระบบที่มีกริดหลักแข็งแรงอยู่แล้ว จึงถือเป็นหัวใจสำคัญของระบบไฟฟ้ายุคพลังงานสะอาดในปัจจุบัน
 
 ### อ้างอิง
-[1] ATTOU N., ZIDI S-A., HADJERI., KHATIR M. “A Control Design of Grid-Forming and Grid-Following Inverters with a Seamless Transition in Microgrid”, in Electrotehnica, Electronica, Automatica (EEA), 2023, vol. 71, no. 2, pp. 10-18, ISSN 1582-5175.
-[2] Kenyon, R., Sajadi, A., Hoke, A., & Hodge, B.-M. (2021). Open-Source PSCAD Grid-Following and Grid-Forming Inverters and a Benchmark for Zero-Inertia Power System Simulations: Preprint. Paper presented at 2021 IEEE Kansas Power and Energy Conference (KPEC).
-[3] H. Kikusato et al., “Performance evaluation of grid-following and grid-forming inverters on frequency stability in low-inertia power systems by power hardware-in-the-loop testing,” Energy Reports, vol. 9, pp. 381–392, Mar. 2023, doi: 10.1016/j.egyr.2022.10.434.
-[4] Red Eléctrica de España (2025). *Preliminary Report on the Iberian Blackout Event, April 28 2025.* 
+[1] ATTOU N., ZIDI S-A., HADJERI., KHATIR M. “A Control Design of Grid-Forming and Grid-Following Inverters with a Seamless Transition in Microgrid”, in Electrotehnica, Electronica, Automatica (EEA), 2023, vol. 71, no. 2, pp. 10-18, ISSN 1582-5175.<br>
+[2] Kenyon, R., Sajadi, A., Hoke, A., & Hodge, B.-M. (2021). Open-Source PSCAD Grid-Following and Grid-Forming Inverters and a Benchmark for Zero-Inertia Power System Simulations: Preprint. Paper presented at 2021 IEEE Kansas Power and Energy Conference (KPEC).<br>
+[3] H. Kikusato et al., “Performance evaluation of grid-following and grid-forming inverters on frequency stability in low-inertia power systems by power hardware-in-the-loop testing,” Energy Reports, vol. 9, pp. 381–392, Mar. 2023, doi: 10.1016/j.egyr.2022.10.434.<br>
+[4] Red Eléctrica de España (2025). *Preliminary Report on the Iberian Blackout Event, April 28 2025.* <br>
 [5] Grid Strategies LLC (2025). *Review of Reports on Spanish Blackout Causes and Solutions.*  
 [6] S&P Global (2025). *Lessons from the Iberian Blackout: The Starfish and the Spider.*  
 [7] IEEE PES Power & Energy Magazine (2024). *Understanding the Key Assets for Renewable-Rich Power Systems.*
